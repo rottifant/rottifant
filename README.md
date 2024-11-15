@@ -4,7 +4,7 @@
 - 👀 Interested in Electronics, Embedded Systems and (web) development
 - 💻 Currently working with these technologies:
   
-![](https://skillicons.dev/icons?i=angular,laravel,ts,js,php,c,cs,cpp,arduino,raspberrypi,py,sass,css,html,bootstrap)
+![](https://skillicons.dev/icons?i=vue,nuxt,angular,laravel,nest,ts,js,php,c,cs,arduino,raspberrypi,sass,bootstrap)
 
 ## 🔧 Current Projects
 ### 🎟️ Ticketshop "TicketTiger"
